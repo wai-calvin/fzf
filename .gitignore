@@ -12,3 +12,5 @@ gopath
 fzf
 tmp
 *.patch
+
+dist/
